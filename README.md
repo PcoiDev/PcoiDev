@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4b0a04d-d8d5-41ff-8424-e5a66fdc0494" alt="Watermark"/>
+  <img src="https://github.com/Pcoi94/Pcoi94/blob/main/watermark.png?raw=true" alt="Watermark"/>
 </p>
 
 <p align="center">
