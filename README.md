@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/button/myPorfolio.png?raw=true" alt="Watermark"/></a>
-  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/button/myCreations.png?raw=true" alt="Watermark"/></a>
-  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/button/contactMe.png?raw=true" alt="Watermark"/></a>
+  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/myPorfolio.png?raw=true" alt="My Portfolio"/></a>
+  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/myCreations.png?raw=true" alt="My Creations"/></a>
+  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/contactMe.png?raw=true" alt="Contact Me"/></a>
 </p>
