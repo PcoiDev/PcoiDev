@@ -1,10 +1,4 @@
 
-<p align="center">
+<a align="center" href="https://pcoi.dev" target="_blank">
   <img src="https://github.com/Pcoi94/Pcoi94/blob/main/watermark.png?raw=true" alt="Watermark"/>
-</p>
-
-<p align="center">
-  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/myPortfolio.png?raw=true" alt="My Portfolio"/></a>
-  <a href="https://pcoiscript.xyz/creations"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/myCreations.png?raw=true" alt="My Creations"/></a>
-  <a href="https://pcoiscript.xyz"><img src="https://github.com/Pcoi94/Pcoi94/blob/main/buttons/contactMe.png?raw=true" alt="Contact Me"/></a>
-</p>
+</a>
